@@ -24,7 +24,7 @@ Clona o repositório e entra na pasta do projeto:
 
 ```bash
 git clone https://github.com/DavidAssuncaoPereira/genius-site-engine.git
-cd genius-site-engine
+cd Trabalho_Redes_Site
 ```
 
 Depois instala as dependências:
