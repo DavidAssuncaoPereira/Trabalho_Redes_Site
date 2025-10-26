@@ -77,7 +77,7 @@ npm run preview
 ## 🧰 Estrutura do projeto
 
 ```
-genius-site-engine/
+Trabalho_Redes_Site/
 ├── src/              # Código fonte principal
 │   ├── components/   # Componentes reutilizáveis
 │   ├── pages/        # Páginas do site
