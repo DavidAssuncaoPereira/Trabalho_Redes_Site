@@ -5,7 +5,7 @@ Este projeto serve como base para criar websites rápidos, modulares e fáceis d
 
 ---
 
-## 📦 Pré-requisitos
+##  Pré-requisitos
 
 Antes de começar, certifica-te de que tens o **Node.js** instalado:
 
@@ -13,12 +13,12 @@ Antes de começar, certifica-te de que tens o **Node.js** instalado:
 node -v
 ```
 
-👉 Recomenda-se **Node.js v18** ou superior.
+ Recomenda-se **Node.js v18** ou superior.
 Se ainda não o tens, instala em [https://nodejs.org](https://nodejs.org).
 
 ---
 
-## ⚙️ Instalação
+##  Instalação
 
 Clona o repositório e entra na pasta do projeto:
 
@@ -33,11 +33,11 @@ Depois instala as dependências:
 npm install
 ```
 
-> 💡 Podes também usar `yarn` ou `pnpm`, se preferires.
+> Podes também usar `yarn` ou `pnpm`, se preferires.
 
 ---
 
-## 🧩 Executar em modo de desenvolvimento
+##  Executar em modo de desenvolvimento
 
 Para arrancar o servidor local de desenvolvimento:
 
@@ -56,7 +56,7 @@ Abre esse link no teu navegador para veres o site em funcionamento.
 
 ---
 
-## 🏗️ Gerar build de produção
+##  Gerar build de produção
 
 Para compilar o projeto otimizado para produção:
 
@@ -74,7 +74,7 @@ npm run preview
 
 ---
 
-## 🧰 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 Trabalho_Redes_Site/
@@ -92,23 +92,23 @@ Trabalho_Redes_Site/
 
 ---
 
-## 🎨 Tecnologias usadas
+##  Tecnologias usadas
 
-* ⚡ **Vite** — Bundler rápido e simples
-* 💙 **TypeScript** — Tipagem estática moderna
-* 🎨 **Tailwind CSS** — Estilização utilitária
-* 🧩 **React** (se aplicável) — Framework de componentes
+*  **Vite** — Bundler rápido e simples
+*  **TypeScript** — Tipagem estática moderna
+*  **Tailwind CSS** — Estilização utilitária
+*  **React** (se aplicável) — Framework de componentes
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está disponível sob a licença **MIT**.
 Sente-te à vontade para usar, modificar e distribuir.
 
 ---
 
-## 💡 Próximos passos
+##  Próximos passos
 
 * Adicionar exemplos de sites criados com o motor
 * Melhorar a documentação
