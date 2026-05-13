@@ -23,7 +23,7 @@ Se ainda não o tens, instala em [https://nodejs.org](https://nodejs.org).
 Clona o repositório e entra na pasta do projeto:
 
 ```bash
-git clone https://github.com/DavidAssuncaoPereira/genius-site-engine.git
+git clone https://github.com/DavidAssuncaoPereira/Trabalho_Redes_Site
 cd Trabalho_Redes_Site
 ```
 
